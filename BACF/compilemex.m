@@ -1,0 +1,1 @@
+mex -lopencv_core -lopencv_imgproc -L/usr/local/include/ -I/usr/local/include/ mexResize.cpp MxArray.cpp

@@ -12,7 +12,7 @@ Address：https://pan.baidu.com/s/1-NmgTdk8qKu3WozkJYnMrQ
 
 Password：1qaz
 _____________________________________________________________________________________________________________________________________________________________________
-Comparison algorithma:
+Comparison algorithmas:
 
 MOSSE       doi: 10.1109/CVPR.2010.5539960
 

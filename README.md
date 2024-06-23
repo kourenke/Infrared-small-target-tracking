@@ -29,3 +29,19 @@ ARCF        doi: 10.1109/ICCV.2019.00298.
 Auto Track  http://arxiv.org/abs/2003.12949
 
 EFSCF       doi: 10.1016/j.neunet.2023.01.003.
+
+In addition, we will do a job promotion: we have also compiled a set of evaluation metrics libraries suitable for infrared small target detection algorithms, named BinarySOSMetrics.
+
+The relevant code is published on https://github.com/BinarySOS/BinarySOSMetrics.
+
+The main features of BinarySOSMetrics include:
+
+High Efficiency: Multi-threading.
+
+Device Friendly: All metrics support automatic batch accumulation.
+
+Unified API: All metrics provide the same API, Metric.update(labels, preds) complete the accumulation of batches， Metric.get() get metrics。
+
+Unified Computational: We use the same calculation logic and algorithms for the same type of metrics, ensuring consistency between results.
+
+Supports multiple data formats: Supports multiple input data formats, hwc/chw/bchw/bhwc/image path, more details in ./notebook/tutorial.ipynb

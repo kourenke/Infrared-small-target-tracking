@@ -32,7 +32,7 @@ EFSCF       doi: 10.1016/j.neunet.2023.01.003.
 
 In addition, we will do a job promotion: we have also compiled a set of evaluation metrics libraries suitable for infrared small target detection algorithms, named BinarySOSMetrics.
 
-The relevant code is published on https://github.com/BinarySOS/BinarySOSMetrics.
+The relevant code is published on https://github.com/IRSTD/STD-EvalKit.
 
 The main features of BinarySOSMetrics include:
 
